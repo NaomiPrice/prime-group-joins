@@ -55,3 +55,5 @@ JOIN "customers"
 GROUP BY "customers".id
 
 -- 6. How many customers do we have?
+SELECT * 
+FROM "customers";
